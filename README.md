@@ -229,6 +229,8 @@ CodeAlpha_ImageGallery/
 
 Final-Year B.Sc. Computer Science Student
 
+Frontend Development Intern - CodeAlpha
+
 Aspiring Frontend Developer
 
 **GitHub Profile:** https://github.com/GhopikhashriAS/
